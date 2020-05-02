@@ -27,7 +27,7 @@
 <p> Switch> enable</p>
 <p> Switch# show mac-address-table</p>
 <p><b><i> Результат виконання команди: </i></b></p>
-<img src="img/2.jpg" alt="">
+<img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB1/2.jpg" alt="">
 </li>
 <li>
 <p>Чи можливо що декілька МАС адрес прив’язані до одного порту в МАС таблиці комутатора? Чому і що це за адреси?<span class="red"> Ні неможливо, тому що це фізична адреса пристрою</span></p>
