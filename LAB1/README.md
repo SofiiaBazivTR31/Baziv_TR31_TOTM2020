@@ -75,7 +75,7 @@
                     <p>Router> enable</p>
                     <p>Router# show ip route</p>
                     <p>Маршрути до яких мереж присутні в таблиці маршрутизації? Вказати через які порти маршрутизатора доступна кожна з мереж.</p>
-                    <img src="img/3.jpg" alt="">
+                    <img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB1/3.jpg" alt="">
                     <p>Вказано маршрути до LAN_1 та LAN_2. Які доступні через порти 1 та 0.</p>
                 </li>
                 <li>Запустити ping між комп’ютерами LAN_1 та LAN_3. Як змінюється МАС адреса на Router_LAN_1?
