@@ -4,7 +4,7 @@
 <h2>Хід виконання роботи</h2>
 <ol>
 <li>Скласти схему мережі у Packet Tracer та перейти у Simulation mode. </li>
-<img src="img/1.jpg" alt="">
+<img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB1/1.jpg" alt="">
 <li>Запустити команду ping між комп’ютерами що під’єднані до повторювача (hub) та прослідкувати передачу пакетів між ними:
 <ul>
 <li>Кому належить (якому пристрою) MAC адреса призначення кадру (destination МАС)?
