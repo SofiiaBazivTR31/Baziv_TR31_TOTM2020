@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./main.css">
-</head>
-
-<body>
-    <h1>
+<h1>
         Звіт до лабораторної роботи №1
     </h1>
 
@@ -133,7 +123,3 @@
         <b>Висновок: під час виконання даної лабораторної роботи ми дослідили роботу мережі згідно моделі OSI за допомогою програми Packet Tracer. В результаті виконання лабораторної роботи досягнуто мети, труднощів не виникло та вдалося виконати
         всі поставлені завдання.
     </b></p>
-</body>
-
-</html>
-
