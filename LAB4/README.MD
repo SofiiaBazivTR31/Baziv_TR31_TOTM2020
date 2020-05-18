@@ -4,8 +4,8 @@
 
 <h2 align="center">Виконання роботи</h2>
 <ol>
- <li>За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф з V=6 та E=10 та побудувати дерево шляхів з вершини N за алгоритмом Дейкстри  <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB4/img/1.png"></p>
-   <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB4/img/2.png"></p> 
+ <li>За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф з V=6 та E=10 та побудувати дерево шляхів з вершини N за алгоритмом Дейкстри  <p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB4/IMG/1.png"></p>
+   <p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB4/IMG/2.png"></p> 
 <p>Починаємо з вершини 1: <br>
 Вершина 2: 1 —  2 <br>
 Вершина 3: 1 — 6 —  3 <br>
@@ -15,7 +15,7 @@
    <p/>
 </li>
   <li>Для того ж графа побудувати дерево шляхів з вершини N за алгоритмом Беллмана-Форда
-    <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB4/img/3.png"></p>
+    <p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB4/IMG/3.png"></p>
     <p>Вершина 2: 1 —  2<br>
 Вершина 3: 1 — 6 —  3<br>
 Вершина 4: 1 – 4<br>
